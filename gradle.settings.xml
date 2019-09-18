@@ -1,0 +1,5 @@
+<application>
+  <component name="GradleSystemSettings">
+    <option name="gradleVmOptions" value="-Dfile.encoding=utf-8" />
+  </component>
+</application>

@@ -1,0 +1,9 @@
+<application>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="16" />
+  </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="300" />
+  </component>
+</application>
