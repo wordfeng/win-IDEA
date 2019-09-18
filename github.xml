@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="b0e6c5b9-9fc9-49ec-b474-6ac9f1deafb8" name="wordfeng">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
