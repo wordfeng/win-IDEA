@@ -3,5 +3,8 @@
     <default_templates>
       <template name="mybatis-config.xml" reformat="true" live-template-enabled="true" />
     </default_templates>
+    <internal_templates>
+      <template name="XML Properties File.xml" reformat="true" live-template-enabled="true" enabled="true" />
+    </internal_templates>
   </component>
 </application>
