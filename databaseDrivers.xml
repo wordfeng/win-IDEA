@@ -37,9 +37,14 @@
     <driver id="sybase.ase">
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="mysql.8">
-      <artifact name="MySQL Connector/J 8" use="true" />
+    <driver id="mysql.8" driver-class="com.mysql.jdbc.Driver">
+      <artifact name="MySQL Connector/J" rolling="false" use="true" version="5.1.44" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="mysql">
       <artifact name="MySQL Connector/J" use="true" />
