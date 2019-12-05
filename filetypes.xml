@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="userinfo" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bin" approved="true" type="PLAIN_TEXT" />
