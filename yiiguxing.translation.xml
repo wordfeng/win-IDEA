@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Prevents instantiation" />
       <item value="Create a new AnnotationConfigApplicationContext with the given DefaultListableBeanFactory. * @param beanFactory the DefaultListableBeanFactory instance to use for this context" />
       <item value="detected" />
       <item value="bias" />
@@ -12,7 +13,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="ENGLISH" value="13" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
