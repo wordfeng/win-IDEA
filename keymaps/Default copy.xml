@@ -1,7 +1,11 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="ClassNameCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
   </action>
+  <action id="HippieCompletion" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
