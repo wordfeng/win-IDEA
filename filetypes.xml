@@ -6,8 +6,10 @@
       <mapping ext="lock" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping ext="html" type="Vue.js" />
+      <removed_mapping ext="vue" approved="true" type="Vue.js" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bin" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="vue" approved="true" type="HTML" />
       <removed_mapping ext="html" approved="true" type="HTML" />
     </extensionMap>
   </component>
