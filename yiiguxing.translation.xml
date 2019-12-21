@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="has been called" />
+      <item value="has not yet been called" />
       <item value="retries a set number of times with increasing sleep time between retries" />
       <item value="descendants" />
       <item value="persists" />
@@ -18,8 +20,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="19" />
+        <entry key="CHINESE" value="21" />
+        <entry key="ENGLISH" value="22" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
