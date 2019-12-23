@@ -3,9 +3,6 @@
     <library name="jquery" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_libs.baidu.com_jquery_2.1.4_jquery.js" />
-        </sourceFilesUrls>
       </properties>
       <CLASSES />
       <DOCUMENTATION>
