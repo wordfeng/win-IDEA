@@ -1,0 +1,14 @@
+<application>
+  <component name="MyBatisCodeHelper">
+    <option name="profile">
+      <Profile>
+        <option name="convertByteOrShortToInt" value="true" />
+        <option name="generateMethodInService" value="true" />
+        <option name="generateMethodInServiceInterface" value="true" />
+        <option name="ifTestStringNullAndEmpty" value="true" />
+        <option name="useActualParamNames" value="true" />
+        <option name="usejava8LocalDateTimeEct" value="true" />
+      </Profile>
+    </option>
+  </component>
+</application>
