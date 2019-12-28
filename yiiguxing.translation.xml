@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="non-negative" />
       <item value="Invariants: mark &lt;= position &lt;= limit &lt;= capacity" />
       <item value="has been called" />
       <item value="has not yet been called" />
@@ -21,9 +22,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
+        <entry key="CHINESE" value="23" />
         <entry key="ENGLISH" value="23" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
+        <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
