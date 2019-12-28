@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invariants: mark &lt;= position &lt;= limit &lt;= capacity" />
       <item value="has been called" />
       <item value="has not yet been called" />
       <item value="retries a set number of times with increasing sleep time between retries" />
@@ -20,8 +21,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="CHINESE" value="22" />
+        <entry key="ENGLISH" value="23" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
