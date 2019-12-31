@@ -1,5 +1,6 @@
 <application>
   <component name="GradleSystemSettings">
+    <option name="serviceDirectoryPath" value="E:/gradle-6.0-all/gradle-6.0" />
     <option name="gradleVmOptions" value="-Dfile.encoding=utf-8" />
   </component>
 </application>
