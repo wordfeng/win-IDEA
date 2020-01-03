@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Called when an operation has failed for some reason. This method should return * true to make another attempt. *" />
+      <item value="Interrupted while interrupting; I give up. Thread.currentThread().interrupt();" />
+      <item value="Interrupted while interrupting; I give up." />
+      <item value="ordering" />
+      <item value="LATENT" />
       <item value="{ margin: 0 auto; }" />
       <item value="Inline repackaged cglib classes directly into spring-core jar" />
       <item value="non-negative" />
@@ -24,8 +29,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="29" />
+        <entry key="ENGLISH" value="30" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ITALIAN" value="1" />
       </map>
