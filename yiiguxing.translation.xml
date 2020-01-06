@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="initial cache" />
+      <item value="populated" />
+      <item value="This * event signals that the initial cache has been populated." />
       <item value="INACTIVE" />
       <item value="made public for testing" />
       <item value="Called when an operation has failed for some reason. This method should return * true to make another attempt. *" />
@@ -31,8 +34,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="31" />
-        <entry key="ENGLISH" value="32" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="35" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ITALIAN" value="1" />
       </map>
