@@ -1,0 +1,10 @@
+<application>
+  <component name="Zoolytic">
+    <option name="clusters">
+      <list>
+        <option value="127.0.0.1:2181" />
+        <option value="localhost:2182" />
+      </list>
+    </option>
+  </component>
+</application>
